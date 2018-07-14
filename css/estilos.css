@@ -1,0 +1,32 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+header{
+  box-shadow: 0 5px 10px #999;
+}
+
+.botonesCabecera{
+  text-align: right;
+  padding-top: 20px;
+}
+.msnExito, .msnError {
+  font-weight: bold;
+  color : green ;
+}
+.msnError{
+  color: red;
+}
+#pie{
+  clear: both;
+  text-align: center;
+  padding: 20px;
+  border-top: 2px solid #999999;
+}
+.admin{
+  margin-top: 40px;
+}
+#bot{
+  text-align: right;
+  padding-top: 0px;
+}
